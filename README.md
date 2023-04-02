@@ -41,5 +41,4 @@ com
     +- WebConfiguration                         配置入口(配置过滤器、拦截器、监视器）
 ```
 # 应用流程
-
-
+![Image text](https://github.com/helloworld903/spring-boot-web/blob/main/c1878fa666e4a1d8b993dd70f9ae2a96.png)
